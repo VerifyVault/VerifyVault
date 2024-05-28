@@ -1,16 +1,16 @@
 ## VerifyVault
+VerifyVault is a free open source 2 Factor Authenticatior for Windows and Linux. This main objective of this project is to provide users with a private and transparent 2FA application for their desktops. Although this application is in early development, the aim is to provide the most secure 2FA application for users on Windows and Linux.
 
-<!--
-**VerifyVault/VerifyVault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you have any questions, please refrence the FAQ
 
-Here are some ideas to get you started:
+## Features
+- Free
+- Offline
+- Open Source
+- Import/Export accounts
+- Export via QR Codes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contribute
+
+##License
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
