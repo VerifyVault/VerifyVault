@@ -1,4 +1,4 @@
-## ![VerifyVault Light Circlle](https://github.com/VerifyVault/VerifyVault/assets/170455817/8a91f80f-8ecd-46b7-8868-f527f01966c0 width="200" height="200") VerifyVault
+## ![VerifyVault Light Circlle](https://github.com/VerifyVault/VerifyVault/assets/170455817/8a91f80f-8ecd-46b7-8868-f527f01966c0) VerifyVault
 
 <!--
 **VerifyVault/VerifyVault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
