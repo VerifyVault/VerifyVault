@@ -1,4 +1,4 @@
-## ＜img src="https://github.com/VerifyVault/VerifyVault/assets/170455817/c315a994-23e8-4ce1-9245-7478934e9504" width="500" height="300"＞ VerifyVault
+## VerifyVault
 
 <!--
 **VerifyVault/VerifyVault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
