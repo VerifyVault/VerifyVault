@@ -7,7 +7,7 @@ Head over to the [Contributing Guide](https://github.com/VerifyVault/VerifyVault
 Yes, VerifyVault is open source.
 
 ### Is VerifyVault available for Android/iOS?
-No, VerifyVault is only avaiable for WIndows and Linux.
+No, VerifyVault is only available for WIndows and Linux.
 
 ### Will VerifyVault be available for MacOS?
 Yes, the plan is to release VerifyVault for MacOS eventually.
