@@ -21,9 +21,6 @@ No, VerifyVault is completely offline.
 ### Can I access VerifyVault through multiple devices?
 Yes, but you will need to manually import the accounts on each device. VerifyVault is offline.
 
-### Can I customize VerifyVault?
-No.
-
 ### Does VerifyVault support HOTP?
 No, but this will be added in the near future.
 
