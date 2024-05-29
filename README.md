@@ -3,7 +3,7 @@
 
 If you have any questions, please refrence the [FAQ](https://github.com/VerifyVault/VerifyVault/blob/main/FAQ.md).
 
-![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github) ![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white) ![Static Badge](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&labelColor=white) ![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github) ![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white) ![Static Badge](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&labelColor=white) ![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white&link=https%3A%2F%2Fmatrix.to%2F%23%2F%23verifyvault%3Amatrix.org)
 
 
 ## Features
