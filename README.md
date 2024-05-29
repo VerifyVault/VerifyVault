@@ -19,6 +19,7 @@ Interested in contributing? Check out the Guidelines [here](https://github.com/V
 
 ### Donate
 - Monero: 43YvGR6aUTTG6sAf5Ain8WeJ2fUq6iraUV7VWt9UwsBA8bNctzsndUn1b39asA6Eb1MSpRTjeddwuX4nHQqKnwa7EcCHX9Q
+  
 - Bitcoin: bc1q3zqeh99p8efuldmn27e44tpajzymafvfyfaqus
 - Ethereum: 0x7Af3ee1251c0428b7ba6E1dEaB913ac029e58E1e
 - Litecoin: LQakrnCZoSDWioe7qp7SPB9dkP4Tdx4oJd
