@@ -3,7 +3,7 @@
 
 If you have any questions, please refrence the [FAQ](https://github.com/VerifyVault/VerifyVault/blob/main/FAQ.md).
 
-![Static Badge](https://img.shields.io/badge/GitHub-black)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)
 
 ## Features
 - Free
