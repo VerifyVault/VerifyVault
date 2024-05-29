@@ -38,3 +38,6 @@ You will be asked if you wish to override the accounts. If you choose no, the du
 
 ### How do I transfer an account using the QR Code Export method?
 Use a mobile 2FA application and scan the QR code through the app
+
+### Are there cloud backups?
+No, VerifyVault stores your data on your device.
