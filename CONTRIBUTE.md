@@ -14,4 +14,4 @@ To report a bug, click on the "Issues" tab and open a "Bug report" ticket. Your 
 Before adding a new feature, please click on the "Issues" tab and open a "Feature request" ticket. Your ticket must include the following:
 - Feature you would like to add
 - Why you want to add this feature
-- If it's approved you may open a "Pull requests" ticket and start working on the changes
+- If approved your changes will be merged
