@@ -1,4 +1,4 @@
-# VerifyVault FAQ
+## VerifyVault FAQ
 
 ### How can I contribute?
 Head over to the [Contributing Guide](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
