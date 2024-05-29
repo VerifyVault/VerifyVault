@@ -14,11 +14,6 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 - Import/Export accounts
 - Export via QR Code
 
-## Screenshots
-<img align="left" width="500" height="500" src="images/Main.png" alt="Main"> 
-<img align="left" width="500" height="500" src="images/Settings.png" alt="Settings"> <img align="left" width="500" height="500" src="images/Copied.png" alt="Copied"> <img align="left" width="500" height="500" src="images/EditAccount.png" alt="EditAccount"> <img align="left" width="500" height="500" src="images/EditName.png" alt="EditName">
-<img align="left" width="500" height="500" src="images/Export.png" alt="Export"> <img align="left" width="500" height="500" src="images/Guide.png" alt="Guide"> <img align="left" width="500" height="500" src="images/Override.png" alt="Override"> <img align="left" width="500" height="500" src="images/Search.png" alt="Search">
-
 ## Contribute
 Interested in contributing? Check out the Guidelines [here](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
 
@@ -31,4 +26,7 @@ Interested in contributing? Check out the Guidelines [here](https://github.com/V
 ## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
 
-![VerifyVault Light Circlle](https://github.com/VerifyVault/VerifyVault/assets/170455817/689ccc65-b0a1-44a1-8086-76217310c2bb)
+## Screenshots
+<img align="left" width="400" height="400" src="images/Main.png" alt="Main"> <img align="left" width="400" height="400" src="images/Settings.png" alt="Settings"> <img align="left" width="400" height="400" src="images/Copied.png" alt="Copied"> <img align="left" width="400" height="400" src="images/EditAccount.png" alt="EditAccount"> <img align="left" width="400" height="400" src="images/EditName.png" alt="EditName"> <img align="left" width="400" height="400" src="images/Export.png" alt="Export"> <img align="left" width="400" height="400" src="images/Guide.png" alt="Guide"> <img align="left" width="400" height="400" src="images/Override.png" alt="Override"> <img align="left" width="400" height="400" src="images/Search.png" alt="Search">
+
+
