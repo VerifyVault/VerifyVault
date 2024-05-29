@@ -19,5 +19,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 ## Contribute
 Interested in contributing? Check out the Guidelines [here](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
 
+### Donate
+
 ## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
