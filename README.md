@@ -19,8 +19,5 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 ## Contribute
 Soon
 
-## Donate
-(https://img.shields.io/badge/-white?style=for-the-badge&logo=monero&labelColor=white&color=orange) - 43YvGR6aUTTG6sAf5Ain8WeJ2fUq6iraUV7VWt9UwsBA8bNctzsndUn1b39asA6Eb1MSpRTjeddwuX4nHQqKnwa7EcCHX9Q
-
 ## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
