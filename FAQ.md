@@ -3,14 +3,29 @@
 ### How can I contribute?
 Head over to the [Contributing Guide](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
 
+### Is VerifyVault open source?
+Yes, VerifyVault is open source.
+
 ### Is VerifyVault available for Android/iOS?
 No, VerifyVault is only avaiable for WIndows and Linux.
 
 ### Will VerifyVault be available for MacOS?
 Yes, the plan is to release VerifyVault for MacOS eventually.
 
+### How does VerifyVault handle software updates?
+VerifyVault is currently in Beta, to get the latest update be sure to follow VerifyVault's official pages.
+
 ### Does VerifyVault need internet access?
 No, VerifyVault is completely offline.
+
+### Can I access VerifyVault through multiple devices?
+Yes, but you will need to manually import the accounts on each device. VerifyVault is offline.
+
+### Can I customize VerifyVault?
+No.
+
+### Does VerifyVault support HOTP?
+No, but this will be added in the near future.
 
 ### Are there any encryption features?
 Not yet, VerifyVault is still in Beta and more features are due to be added.
