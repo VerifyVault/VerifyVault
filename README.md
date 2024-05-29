@@ -14,6 +14,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 - Export via QR Codes
 
 ## Screenshots
+![ss](https://github.com/VerifyVault/VerifyVault/assets/170455817/54a93de6-bda0-4dc5-a41c-c49ce8de61f5)
 
 ## Contribute
 Soon
