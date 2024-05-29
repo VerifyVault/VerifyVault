@@ -3,10 +3,10 @@
 ### How can I contribute?
 Head over to the [Contributing Guide](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
 
-### Is VerifyVault avaiable for Android/iOS?
+### Is VerifyVault available for Android/iOS?
 No, VerifyVault is only avaiable for WIndows and Linux.
 
-### Will VerifyVault be avaiable for MacOS?
+### Will VerifyVault be available for MacOS?
 Yes, the plan is to release VerifyVault for MacOS eventually.
 
 ### Does VerifyVault need internet access?
