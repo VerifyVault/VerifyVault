@@ -14,7 +14,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 - Export via QR Codes
 
 ## Screenshots
-![ss](https://github.com/VerifyVault/VerifyVault/assets/170455817/54a93de6-bda0-4dc5-a41c-c49ce8de61f5)
+![Main](https://github.com/VerifyVault/VerifyVault/assets/170455817/e5fc6c02-ed2e-4beb-b67b-514d30dc159b) ![Edit Name](https://github.com/VerifyVault/VerifyVault/assets/170455817/4f96c1cc-fea2-49f4-ad26-7ac3d5e40eaf) ![Edit Account](https://github.com/VerifyVault/VerifyVault/assets/170455817/b0f5f33b-410b-40c0-86a7-b0a4d9d9b07d) ![Guide](https://github.com/VerifyVault/VerifyVault/assets/170455817/f0bffb6f-3c94-4ebe-898f-6907719e3066) ![Copied](https://github.com/VerifyVault/VerifyVault/assets/170455817/83bad4db-a167-41d8-a94b-a4a983a69141) ![Export](https://github.com/VerifyVault/VerifyVault/assets/170455817/04d7fd35-f588-4583-beb5-e417d7839255) ![Settings](https://github.com/VerifyVault/VerifyVault/assets/170455817/1dbf7900-6a21-43d2-ac75-f7689b9714cb) ![Override](https://github.com/VerifyVault/VerifyVault/assets/170455817/ca109c5b-1f35-4ee7-8975-9c18446eba71) ![Search](https://github.com/VerifyVault/VerifyVault/assets/170455817/5057db9f-b5fd-4653-a767-a7efdd9c1282)
 
 ## Contribute
 Soon
