@@ -3,7 +3,7 @@
 
 If you have any questions, please refer the [FAQ](https://github.com/VerifyVault/VerifyVault/blob/main/FAQ.md).
 
-
+## Socials
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/VerifyVault) [![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&labelColor=white)](https://www.reddit.com/user/VerifyVault/) [![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#verifyvault:matrix.org) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://twitter.com/)
 
 
