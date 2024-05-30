@@ -15,6 +15,9 @@ No, VerifyVault is only available for WIndows and Linux.
 ### Will VerifyVault be available for MacOS?
 Yes, the plan is to release VerifyVault for MacOS eventually.
 
+### Which file is the main file?
+The file named "frontend" is the main file.
+
 ### How does VerifyVault handle software updates?
 VerifyVault is currently in Beta, to get the latest update be sure to follow VerifyVault's official pages.
 
