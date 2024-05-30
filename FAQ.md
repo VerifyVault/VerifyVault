@@ -7,7 +7,7 @@ Head over to the [Contributing Guide](https://github.com/VerifyVault/VerifyVault
 Yes, VerifyVault is open source.
 
 ### What Language is VerifyVault in?
-VerifyVeult is coded in Python
+VerifyVeult is coded in Python.
 
 ### Is VerifyVault available for Android/iOS?
 No, VerifyVault is only available for WIndows and Linux.
