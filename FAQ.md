@@ -7,7 +7,7 @@ Head over to the [Contributing Guide](https://github.com/VerifyVault/VerifyVault
 Yes, VerifyVault is open source.
 
 ### Where can I get the EXE?
-Go to the right underneath the About section, click on "Tags" and choose the version.
+Go to the right underneath the About section, click on ["Tags"](https://github.com/VerifyVault/VerifyVault/tags) and choose the version.
 
 ### What Language is VerifyVault in?
 VerifyVeult is coded in Python.
