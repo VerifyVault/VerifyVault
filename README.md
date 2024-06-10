@@ -10,7 +10,9 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 ## Features
 - Free
 - Offline
+- Encrypted
 - Open Source
+- Password Lock
 - Import/Export accounts
 - Export via QR Code
 
