@@ -13,8 +13,9 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 - Encrypted
 - Open Source
 - Password Lock
+- Automatic Backups
 - Import/Export accounts
-- Export via QR Code
+- Import/Export via QR Code
 
 ## Contribute
 Interested in contributing? Check out the Guidelines [here](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
