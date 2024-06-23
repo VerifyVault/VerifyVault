@@ -5,14 +5,17 @@
 If you have any questions, please refer the [FAQ](https://github.com/VerifyVault/VerifyVault/blob/main/FAQ.md).
 
 ## Socials
-#### Developement 
+**Developement:**
+
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/VerifyVault) [![Static Badge](https://img.shields.io/badge/SourceForge-%23FF6600?style=for-the-badge&logo=sourceforge&labelColor=white)
 ](https://sourceforge.net/projects/verifyvault/)
 
-#### Social 
+**Social:**
+
 [![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://x.com/VeryfyVault) [![Static Badge](https://img.shields.io/badge/Hacker%20News-%23F0652F?style=for-the-badge&logo=ycombinator&labelColor=white)](https://news.ycombinator.com/submitted?id=VerifyVault)
 
-#### Chat 
+**Chat:**
+
 [![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=white)
 ](https://discord.gg/ckpKXmPe) [![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) 
 
