@@ -10,7 +10,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/VerifyVault) [![Static Badge](https://img.shields.io/badge/SourceForge-%23FF6600?style=for-the-badge&logo=sourceforge&labelColor=white)
 ](https://sourceforge.net/projects/verifyvault/)
 
-**Social:**
+**Socials:**
 
 [![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://x.com/VeryfyVault) [![Static Badge](https://img.shields.io/badge/Hacker%20News-%23F0652F?style=for-the-badge&logo=ycombinator&labelColor=white)](https://news.ycombinator.com/submitted?id=VerifyVault)
 
@@ -18,6 +18,10 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 
 [![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=white)
 ](https://discord.gg/ckpKXmPe) [![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) 
+
+**Blogs:**
+
+[![Static Badge](https://img.shields.io/badge/Hashnode-%232962FF?style=for-the-badge&logo=hashnode&labelColor=%232962FF)](https://verifyvault.hashnode.dev/) [![Static Badge](https://img.shields.io/badge/Indie%20Hackers-%230E2439?style=for-the-badge&logo=indie%20hackers&labelColor=%230E2439)](https://www.indiehackers.com/VerifyVault/) [![Static Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A?style=for-the-badge&logo=dev.to&labelColor=%230A0A0A)](https://dev.to/verifyvault)
 
 ## Features
 - Free
