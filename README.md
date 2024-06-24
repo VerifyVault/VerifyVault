@@ -42,7 +42,6 @@ Interested in contributing? Check out the Guidelines [here](https://github.com/V
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE file](https://github.com/VerifyVault/VerifyVault/blob/main/LICENSE) for more details.
 
-## Screenshots - From Beta v0.0 (Will be updated for official release)
-<img align="left" width="400" height="400" src="images/Main.png" alt="Main"> <img align="left" width="400" height="400" src="images/Settings.png" alt="Settings"> <img align="left" width="400" height="400" src="images/Copied.png" alt="Copied"> <img align="left" width="400" height="400" src="images/EditAccount.png" alt="EditAccount"> <img align="left" width="400" height="400" src="images/EditName.png" alt="EditName"> <img align="left" width="400" height="400" src="images/Export.png" alt="Export"> <img align="left" width="400" height="400" src="images/Guide.png" alt="Guide"> <img align="left" width="400" height="400" src="images/Override.png" alt="Override"> <img align="left" width="400" height="400" src="images/Search.png" alt="Search">
+## Screenshots - Coming soon from Beta v0.2.2
 
 
