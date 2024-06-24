@@ -1,4 +1,4 @@
-## VerifyVault <img align="left" width="80" height="80" src="images/VerifyVaultLogo.png" alt="App icon">
+## VerifyVault <img align="left" width="80" height="80" src="images/VerifyVaultProfile.png" alt="App icon">
 
 **VerifyVault** is a free and open source 2-Factor Authenticator for Windows and Linux. The objective of this project is to provide users with a private and transparent 2FA application to secure their accounts. Although this application is in early development, the aim is to provide the most secure 2FA application for users on Windows and Linux.
 
@@ -42,6 +42,13 @@ Interested in contributing? Check out the Guidelines [here](https://github.com/V
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE file](https://github.com/VerifyVault/VerifyVault/blob/main/LICENSE) for more details.
 
-## Screenshots - Coming soon from Beta v0.2.2
+## Screenshots - From Beta v0.2.2
+<img align="left" width="400" height="500" src="images/HomepageNoAccs.png" alt="HomepageNoAccs"> <img align="center" width="400" height="500" src="images/HomepageWithAccs.png" alt="HomepageWithAccs">
 
+<img align="left" width="400" height="500" src="images/AddAccountName.png" alt="AddAccountName"> <img align="center" width="400" height="500" src="images/TOTPCopied.png" alt="TOTPCopied"> 
 
+<img align="left" width="400" height="500" src="images/EditAccountSettings.png" alt="EditAccountSettings"> <img align="center" width="400" height="500" src="images/SettingsWindow.png" alt="SettingsWindow">
+
+<img align="left" width="400" height="500" src="images/SetPassword.png" alt="SetPassword"> <img align="center" width="400" height="500" src="images/ImportWindow.png" alt="ImportWindow">
+
+<img align="left" width="400" height="500" src="images/ExportViaJson.png" alt="ExportViaJson"> <img align="center" width="300" height="200" src="images/PasswordLock.png" alt="PasswordLock">
