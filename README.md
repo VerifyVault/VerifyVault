@@ -21,7 +21,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 
 **Blogs:**
 
-[![Static Badge](https://img.shields.io/badge/Hashnode-%232962FF?style=for-the-badge&logo=hashnode&labelColor=%232962FF)](https://verifyvault.hashnode.dev/) [![Static Badge](https://img.shields.io/badge/Indie%20Hackers-%230E2439?style=for-the-badge&logo=indie%20hackers&labelColor=%230E2439)](https://www.indiehackers.com/VerifyVault/) [![Static Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A?style=for-the-badge&logo=dev.to&labelColor=%230A0A0A)](https://dev.to/verifyvault)
+[![Static Badge](https://img.shields.io/badge/Hashnode-%232962FF?style=for-the-badge&logo=hashnode&labelColor=%232962FF)](https://verifyvault.hashnode.dev/) [![Static Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A?style=for-the-badge&logo=dev.to&labelColor=%230A0A0A)](https://dev.to/verifyvault)
 
 ## Features
 - Free
