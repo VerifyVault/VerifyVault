@@ -12,7 +12,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 
 **Socials:**
 
-[![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://x.com/VeryfyVault) [![Static Badge](https://img.shields.io/badge/Hacker%20News-%23F0652F?style=for-the-badge&logo=ycombinator&labelColor=white)](https://news.ycombinator.com/submitted?id=VerifyVault)
+[![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://x.com/VeryfyVault)
 
 **Chat:**
 
