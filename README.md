@@ -30,8 +30,11 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 - Open Source
 - Password Lock
 - Automatic Backups
+- Password Reminders
 - Import/Export accounts
 - Import/Export via QR Code
+
+[![Static Badge](https://img.shields.io/badge/Direct%20Download-%23181717?style=for-the-badge&logo=github&labelColor=%23181717&color=%23181717)](https://github.com/VerifyVault/VerifyVault/releases/tag/Beta-v0.3)
 
 ## Contribute
 Interested in contributing? Check out the Guidelines [here](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
