@@ -19,7 +19,7 @@ VerifyVeult is coded in Python.
 No, VerifyVault is only available for Windows.
 
 ### Will VerifyVault be officially available for MacOS/Linux?
-Yes, the plan is to release VerifyVault for MacOS eventually.
+Yes, the plan is to release VerifyVault for MacOS/Linux eventually.
 
 ### Which file is the Main file?
 The file named "main" is the Main file.
@@ -33,6 +33,9 @@ No, VerifyVault is completely offline.
 ### Can I access VerifyVault through multiple devices?
 Yes, but you will need to manually import the accounts on each device. VerifyVault is offline.
 
+### Will VerifyVault have a modern look?
+Yes, the modern look will be released after the Beta.
+
 ### Does VerifyVault support HOTP?
 No, but this will be added in the near future.
 
@@ -45,10 +48,13 @@ You have the option to set a Master Password.
 ### How can I import my accounts into VerifyVault?
 Export your accounts from your current 2FA application and verify that the file format is .json and unencrypted. Then, upload the .json file to VerifyVault.
 
-### What happens if I try to import accounts that are already in VerifyVault?
+### What happens if I try to import duplicate accounts?
 You will be asked if you wish to override the accounts. If you choose no, the duplicated accounts be renamed with incremented numbers.
 
-### How do I transfer an account using the QR Code Export method?
+### Can I import accounts via a QR Code?
+Yes, VerifyVault has the ability to read QR Codes and add your account automatically
+
+### How do I export an account using the QR Code Export method?
 Use a mobile 2FA application and scan the QR code through the app.
 
 ### Are there cloud backups?
