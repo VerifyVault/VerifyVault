@@ -29,6 +29,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 - Encrypted
 - Open Source
 - Password Lock
+- Password Hints
 - Automatic Backups
 - Password Reminders
 - Import/Export accounts
