@@ -11,7 +11,7 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Please go to the Issues tab and "Report a vulnerability
+Please go to the Issues tab and click "Report a vulnerability"
 
 Send the following:
 - Description of the vulnerability
