@@ -35,7 +35,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 - Import/Export accounts
 - Import/Export via QR Code
 
-[![Static Badge](https://img.shields.io/badge/Direct%20Download-red?style=for-the-badge&logo=github&labelColor=%23181717&color=%23C41E3A)](https://github.com/VerifyVault/VerifyVault/releases/tag/Beta-v0.3)
+[![Static Badge](https://img.shields.io/badge/Direct%20Download-red?style=for-the-badge&logo=github&labelColor=%23181717&color=%23C41E3A)](https://github.com/VerifyVault/VerifyVault/releases/tag/Beta-v0.4)
 
 ## Contribute
 Interested in contributing? Check out the Guidelines [here](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
