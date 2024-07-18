@@ -14,13 +14,13 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 
 [![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://x.com/VeryfyVault)
 
-**Chat:**
-
-[![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) 
-
 **Blogs:**
 
 [![Static Badge](https://img.shields.io/badge/Hashnode-%232962FF?style=for-the-badge&logo=hashnode&labelColor=%232962FF)](https://verifyvault.hashnode.dev/) [![Static Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A?style=for-the-badge&logo=dev.to&labelColor=%230A0A0A)](https://dev.to/verifyvault)
+
+**Chat:**
+
+[![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) 
 
 ## Features
 - 2FA
