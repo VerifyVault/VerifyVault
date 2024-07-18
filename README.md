@@ -16,8 +16,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 
 **Chat:**
 
-[![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=white)
-](https://discord.gg/ckpKXmPe) [![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) 
+[![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) 
 
 **Blogs:**
 
