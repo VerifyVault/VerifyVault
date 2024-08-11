@@ -4,6 +4,8 @@
 
 If you have any questions, please refer the [FAQ](https://github.com/VerifyVault/VerifyVault/blob/main/FAQ.md).
 
+[![Static Badge](https://img.shields.io/badge/Direct%20Download-red?style=for-the-badge&logo=github&labelColor=%23181717&color=%23C41E3A)](https://github.com/VerifyVault/VerifyVault/releases/tag/Beta-v0.4.1)
+
 ## Socials
 **Developement:**
 
@@ -14,28 +16,27 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 
 [![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://x.com/VeryfyVault)
 
-**Blogs:**
-
-[![Static Badge](https://img.shields.io/badge/Hashnode-%232962FF?style=for-the-badge&logo=hashnode&labelColor=%232962FF)](https://verifyvault.hashnode.dev/) [![Static Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A?style=for-the-badge&logo=dev.to&labelColor=%230A0A0A)](https://dev.to/verifyvault)
-
-**Chat:**
-
-[![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) 
+[![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) [![Static Badge](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=%23000000&color=%23000000)](https://medium.com/@offverifyvault)
 
 ## Features
-- 2FA
-- Free
+### **Private**
+- Free & Open Source
 - Offline
-- Encrypted
-- Open Source
+
+### **Secure**
+- 2FA
+- Encrypted 
 - Password Lock
 - Password Hints
-- Automatic Backups
 - Password Reminders
+
+### **Managing Data**
+- Automatic Backups
 - Import/Export accounts
 - Import/Export via QR Code
 
-[![Static Badge](https://img.shields.io/badge/Direct%20Download-red?style=for-the-badge&logo=github&labelColor=%23181717&color=%23C41E3A)](https://github.com/VerifyVault/VerifyVault/releases/tag/Beta-v0.4.1)
+### **Customization**
+- Light/Dark Mode
 
 ## Contribute
 Interested in contributing? Check out the Guidelines [here](https://github.com/VerifyVault/VerifyVault/blob/main/CONTRIBUTE.md).
@@ -49,7 +50,7 @@ Interested in contributing? Check out the Guidelines [here](https://github.com/V
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE file](https://github.com/VerifyVault/VerifyVault/blob/main/LICENSE) for more details.
 
-## Screenshots - From Beta v0.2.2
+## Screenshots - Releasing SOON
 <img align="left" width="400" height="500" src="images/HomepageNoAccs.png" alt="HomepageNoAccs"> <img align="center" width="400" height="500" src="images/HomepageWithAccs.png" alt="HomepageWithAccs">
 
 <img align="left" width="400" height="500" src="images/AddAccountName.png" alt="AddAccountName"> <img align="center" width="400" height="500" src="images/TOTPCopied.png" alt="TOTPCopied"> 
