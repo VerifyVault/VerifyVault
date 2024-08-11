@@ -48,7 +48,7 @@ Interested in contributing? Check out the Guidelines [here](https://github.com/V
 - **Litecoin**: LQakrnCZoSDWioe7qp7SPB9dkP4Tdx4oJd
 
 ## License
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE file](https://github.com/VerifyVault/VerifyVault/blob/main/LICENSE) for more details.
+This project is licensed under the GNU Affero General Public License v3.0. See the [LICENSE file](https://github.com/VerifyVault/VerifyVault/blob/main/LICENSE.md) for more details.
 
 ## VerifyVault v1.0
 <img align="left" width="350" height="250" src="images/Password.png" alt="Password"> <img align="center" width="400" height="250" src="images/Homepage.png" alt="Homepage">
