@@ -50,13 +50,10 @@ Interested in contributing? Check out the Guidelines [here](https://github.com/V
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE file](https://github.com/VerifyVault/VerifyVault/blob/main/LICENSE) for more details.
 
-## Screenshots - Releasing SOON
-<img align="left" width="400" height="500" src="images/HomepageNoAccs.png" alt="HomepageNoAccs"> <img align="center" width="400" height="500" src="images/HomepageWithAccs.png" alt="HomepageWithAccs">
+## VerifyVault v1.0
+<img align="left" width="350" height="250" src="images/Password.png" alt="Password"> <img align="center" width="400" height="250" src="images/Homepage.png" alt="Homepage">
 
-<img align="left" width="400" height="500" src="images/AddAccountName.png" alt="AddAccountName"> <img align="center" width="400" height="500" src="images/TOTPCopied.png" alt="TOTPCopied"> 
+<img align="left" width="400" height="250" src="images/AddAccount.png" alt="AddAccount"> <img align="center" width="400" height="250" src="images/RecycleBin.png" alt="RecycleBin"> 
 
-<img align="left" width="400" height="500" src="images/EditAccountSettings.png" alt="EditAccountSettings"> <img align="center" width="400" height="500" src="images/SettingsWindow.png" alt="SettingsWindow">
+<img align="left" width="400" height="250" src="images/Settings.png" alt="Settings"> <img align="center" width="400" height="250" src="images/PasswordSettings.png" alt="PasswordSettings">
 
-<img align="left" width="400" height="500" src="images/SetPassword.png" alt="SetPassword"> <img align="center" width="400" height="500" src="images/ImportWindow.png" alt="ImportWindow">
-
-<img align="left" width="400" height="500" src="images/ExportViaJson.png" alt="ExportViaJson"> <img align="center" width="300" height="200" src="images/PasswordLock.png" alt="PasswordLock">
