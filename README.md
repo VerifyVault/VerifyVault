@@ -51,9 +51,13 @@ Interested in contributing? Check out the Guidelines [here](https://github.com/V
 This project is licensed under the GNU Affero General Public License v3.0. See the [LICENSE file](https://github.com/VerifyVault/VerifyVault/blob/main/LICENSE.md) for more details.
 
 ## VerifyVault v1.0
-<img align="left" width="350" height="250" src="images/Password.png" alt="Password"> <img align="center" width="400" height="250" src="images/Homepage.png" alt="Homepage">
+ <img align="center" width="400" height="250" src="images/HomepageLight.png" alt="Homepage Light Mode"> <img align="center" width="400" height="250" src="images/GroupsLight.png" alt="Groups Light Mode">
 
-<img align="left" width="400" height="250" src="images/AddAccount.png" alt="AddAccount"> <img align="center" width="400" height="250" src="images/RecycleBin.png" alt="RecycleBin"> 
+<img align="left" width="400" height="250" src="images/AddAccountLight.png" alt="Add Account Light Mode"> <img align="center" width="400" height="250" src="images/AccountsLight.png" alt="Accounts Light Mode"> 
 
-<img align="left" width="400" height="250" src="images/Settings.png" alt="Settings"> <img align="center" width="400" height="250" src="images/PasswordSettings.png" alt="PasswordSettings">
+<img align="left" width="400" height="250" src="images/AccountInfoLight.png" alt="Account Info Light Mode"> <img align="center" width="400" height="250" src="images/RecycleDark.png" alt="Recycle Bin Dark Mode">
+
+<img align="left" width="400" height="250" src="images/GroupsDark.png" alt="Groups Dark Mode"> <img align="center" width="400" height="250" src="images/SearchDark.png" alt="Search Bar Dark Mode">
+
+<img align="left" width="400" height="250" src="images/PasswordSettingsDark.png" alt="Password Settings Dark Mode"> <img align="left" width="350" height="250" src="images/PasswordDark.png" alt="Password">
 
