@@ -12,7 +12,7 @@ Go to the right underneath the About section, click on ["Tags"](https://github.c
 ### Why does it say that the file is a virus?
 This is a false positive. Ignore it.
 
-### What Language is VerifyVault in?
+### What Programmming Language is VerifyVault in?
 VerifyVeult is coded in Python.
 
 ### Is VerifyVault available for Android/iOS?
