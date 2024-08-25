@@ -36,6 +36,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 - Import/Export via QR Code
 
 ### **Customization**
+- Time Format
 - Light/Dark Mode
 
 ## Contribute
