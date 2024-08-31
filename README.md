@@ -1,6 +1,6 @@
 ## VerifyVault <img align="left" width="80" height="80" src="images/VerifyVaultProfile.png" alt="App icon">
 
-**VerifyVault** is a free and open source 2-Factor Authenticator for Windows and Linux. The objective of this project is to provide users with a private and transparent 2FA application to secure their accounts. Although this application is in early development, the aim is to provide the most secure 2FA application for users on Windows, Linux, and Mac.
+Welcome to **VerifyVault**, a free and open-source 2-factor authenticator designed for desktop use. Our mission is to offer a private and transparent solution for securing your online accounts. Although still in early development, VerifyVault aims to deliver robust security across Windows, Linux, and Mac. Join us on our journey to create the ultimate 2FA tool!
 
 If you have any questions, please refer the [FAQ](https://github.com/VerifyVault/VerifyVault/blob/main/FAQ.md).
 
