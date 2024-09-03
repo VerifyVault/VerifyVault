@@ -14,9 +14,7 @@ If you have any questions, please refer the [FAQ](https://github.com/VerifyVault
 
 **Socials:**
 
-[![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://x.com/VeryfyVault)
-
-[![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) [![Static Badge](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=%23000000&color=%23000000)](https://medium.com/@offverifyvault)
+[![Static Badge](https://img.shields.io/badge/Mastodon-%236364FF?style=for-the-badge&logo=mastodon&labelColor=white)](https://mastodon.social/@verifyvault) [![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x)](https://x.com/VeryfyVault) [![Static Badge](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=%23FF0000&labelColor=white&color=%23FF0000)](https://www.youtube.com/@OffVerifyVault) [![Static Badge](https://img.shields.io/badge/Matrix-%230DBD8B?style=for-the-badge&logo=element&labelColor=white)](https://matrix.to/#/#official-verifyvault:matrix.org) [![Static Badge](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=%23000000&color=%23000000)](https://medium.com/@offverifyvault)
 
 ## Features
 ### **Private**
