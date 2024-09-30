@@ -4,7 +4,7 @@ Welcome to **VerifyVault**, a free and open-source 2-factor authenticator design
 
 If you have any questions, please refer the [FAQ](https://github.com/VerifyVault/VerifyVault/blob/main/FAQ.md).
 
-[![Static Badge](https://img.shields.io/badge/Direct%20Download-red?style=for-the-badge&logo=github&labelColor=%23181717&color=%23C41E3A)](https://github.com/VerifyVault/VerifyVault/releases/tag/Demo-v1.0)
+[![Static Badge](https://img.shields.io/badge/Direct%20Download-red?style=for-the-badge&logo=github&labelColor=%23181717&color=%23C41E3A)](https://github.com/VerifyVault/VerifyVault/releases/tag/v1.0)
 
 ## Socials
 **Developement:**
